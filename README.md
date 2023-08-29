@@ -1,1 +1,3 @@
-# FullStackOpen-Part-7
+# FullStackOpen - Part 7
+
+Exercise returns for https://fullstackopen.com/en/part7
